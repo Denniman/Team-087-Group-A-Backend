@@ -29,11 +29,9 @@ All contributors should adhere to the following branch naming format:
 
 Example: 
 
+```ft-facebook-auth
 ```
-ft-facebook-auth
-```
-```
-bg-facebook-auth-timeouts
+```bg-facebook-auth-timeouts
 ```
 
 ### Note
