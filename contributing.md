@@ -17,8 +17,9 @@
 
 All contributors should adhere to the following branch naming format: 
 
-```{story type prefix}-{2-3 word summary}
-```
+
+`{story type prefix}-{2-3 word summary}`
+
 
 ### Story type prefixes are one of the following
 
@@ -29,10 +30,11 @@ All contributors should adhere to the following branch naming format:
 
 Example: 
 
-```ft-facebook-auth
-```
-```bg-facebook-auth-timeouts
-```
+
+`ft-facebook-auth`
+
+`bg-facebook-auth-timeouts`
+
 
 ### Note
 Always ensure to pull upstream changes into your local repo. e.g. `git pull upstream develop`
